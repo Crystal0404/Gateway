@@ -57,3 +57,5 @@
    这个程序其实做了挺久的，作者python萌新，这个算是第一个可以拿出手的作品，仔细看看代码还是写的很混乱的。最后附一张运行成功的效果图
    
    <img width="1280" alt="image" src="https://user-images.githubusercontent.com/120556221/215434607-ae86828f-4293-4059-a7e4-9acb5b3a31ac.png">
+   
+   也许可能后续会在bilibili开专栏讲解具体代码(,先画个饼，新年画新饼
