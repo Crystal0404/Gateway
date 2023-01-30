@@ -17,7 +17,7 @@
 
   ②
 
-  按照软件提示输入X坐标与Z坐标以及versions（注：versions是数据包的版本，具体自行查阅。演示版本为1.19.2，填10）
+  按照软件提示输入X坐标与Z坐标以及versions（注：versions是数据包的版本，具体自行查阅。演示版本为1.19.2，填10，图中不小心填错了）
   
   <img width="397" alt="image" src="https://user-images.githubusercontent.com/120556221/215430652-a9b5017a-7c8f-4303-a27b-09c670bfd9b7.png">
 
